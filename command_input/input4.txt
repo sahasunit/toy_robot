@@ -1,0 +1,1 @@
+["MOVE","PLACE 2,2,EAST","MOVE","MOVE","left","MOVE","LEFT","LEFT","MOVE","report"]
